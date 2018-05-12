@@ -1,0 +1,35 @@
+_repo: The-Pioneers_34661
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Prichard, Katharine Susannah
+    aliases:
+    - Prichard, Katarina Susanna
+    - Throssell, Mrs. Hugo
+    - Throssell, Hugo, Mrs.
+    - Prichard, Katherine Susannah
+    birthdate: 1884
+    deathdate: 1969
+    gutenberg_agent_id: '37160'
+    url: http://www.gutenberg.org/2009/agents/37160
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Susannah_Prichard
+description: Classic work of Australian pioneering days first published in 1915. Set
+  in early Gippsland it tells of settlers and escaped convicts.___
+gutenberg_issued: '2010-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Australia -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+title: The Pioneers
+url: http://www.gutenberg.org/ebooks/34661
